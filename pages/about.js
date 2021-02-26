@@ -1,3 +1,3 @@
 export default function AboutPage() {
-  return <div>About Mo</div>;
+  return <h3 style={{ color: "green" }}>About Mo</h3>;
 }
